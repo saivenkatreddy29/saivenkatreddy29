@@ -9,79 +9,74 @@
 
 - 📫 How to reach me **ssheri@buffalo.edu**
 
+
+
 ### 🛠 Tech Stack:
-> Tools, languages, and frameworks I like working with.
+> Tools, languages, and frameworks I work with.
 
 <div style="width: 100%;">
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C++" />
-        <br>C++
-      </td>
-      <td align="center" width="150">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        <br>Java
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C++" />
+        <br>C++
       </td>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-        <br>Next.js
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+        <br>Scikit-learn
       </td>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-        <br>HTML
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
       </td>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-        <br>CSS
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_logo_with_text.png" width="48" height="48" alt="OpenCV" />
+        <br>OpenCV
       </td>
     </tr>
     <tr>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
       </td>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
-        <br>Angular
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="48" height="48" alt="Kubernetes" />
+        <br>Kubernetes
       </td>
-      <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-        <br>Spring Boot
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+        <br>Azure
       </td>
-      <td align="center" width="200">
-        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-        <br>Vite
+      <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Cloud_logo.svg" width="48" height="48" alt="Google Cloud" />
+        <br>GCP
       </td>
-      <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        <br>Node.js
+      <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
+        <br>AWS
       </td>
-      <td align="center" width="200">
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
     </tr>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
-        <br>SQL
-      </td>
-      <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js" />
-        <br>Three.js
-      </td>
-    </tr>
   </table>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
