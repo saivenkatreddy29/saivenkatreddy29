@@ -37,10 +37,10 @@
     </td>  
 </tr>  
 <tr>  
-    <td align="center" width="150">  
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text.png" width="48" height="48" alt="OpenCV" />  
-        <br>OpenCV  
-    </td>  
+    <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text.png" width="48" height="48" alt="OpenCV" /><br>
+        OpenCV
+    </td>
     <td align="center" width="150">  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />  
         <br>Docker  
