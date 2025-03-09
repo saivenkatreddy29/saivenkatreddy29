@@ -59,11 +59,10 @@
     </td>  
 </tr>  
 <tr>  
-    <td align="center" width="150">  
-        <img src=
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  width="48" height="48" alt="AWS" />  
-        <br>AWS  
-    </td>  
+    <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" /><br>
+        AWS
+    </td>
     <td align="center" width="150">  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />  
         <br>MySQL  
