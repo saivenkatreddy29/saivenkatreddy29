@@ -9,6 +9,81 @@
 
 - 📫 How to reach me **ssheri@buffalo.edu**
 
+### 🛠 Tech Stack:
+> Tools, languages, and frameworks I like working with.
+
+<div style="width: 100%;">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
+        <br>Angular
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+        <br>Spring Boot
+      </td>
+      <td align="center" width="200">
+        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+        <br>Vite
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js" />
+        <br>Three.js
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/svreddysheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="svreddysheri" height="30" width="40" /></a>
