@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
 
-- 📫 How to reach me **ssheri@buffalo.edu**
+- 📫 How to reach me **sherisaivenkatreddy@gmail.com**
 
 
 
